@@ -1,0 +1,27 @@
+[
+  {
+    "toDoId": 1,
+    "toDo" : "Get Up at 7 AM",
+    "userName" : "user1"
+  },
+  {
+    "toDoId": 2,
+    "toDo" : "Go to sleep at 11 PM",
+    "userName" : "user1"
+  },
+  {
+    "toDoId": 3,
+    "toDo" : "Get Up at 5 AM",
+    "userName" : "user2"
+  },
+  {
+    "toDoId": 4,
+    "toDo" : "Go to sleep at 9 PM",
+    "userName" : "user2"
+  },
+  {
+    "toDoId": 5,
+    "toDo" : "Get this exam done",
+    "userName" : "user1"
+  }
+]

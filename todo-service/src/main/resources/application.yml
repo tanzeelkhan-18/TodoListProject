@@ -1,0 +1,14 @@
+server:
+  port: 5001
+
+spring:
+  application:
+    name: TODO-SERVICE
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8765/eureka/
+    instance: localhost
